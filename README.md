@@ -6,7 +6,7 @@ I wrote the script because we switched from another virtualization solution to o
 
 **Obviously this had to be automated ;-)**
 
-## So please keep in mind that this is just a quick&dirty script which (ideally) should just save someone ,some time.
+## So please keep in mind that this is just a quick&dirty script which (ideally) should just save someone some time.
 
 ## Prerequisites
 
