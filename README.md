@@ -18,11 +18,11 @@ I wrote the script because we switched from another virtualization solution to o
 
 1. Install the oVirt SDK for Python using pip:
 
-`bash pip install ovirt-engine-sdk4`
+`pip install ovirt-engine-sdk4`
 
 2. Run the Python script:
 
-`bash python create_networks.py`
+`python create_networks.py`
 
 ## Docker
 
